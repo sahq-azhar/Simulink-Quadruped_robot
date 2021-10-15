@@ -2,8 +2,7 @@
 
 
 
-This repository contains the simulink model and other suporting librarires for a Quadruped robot.
-
+This repository contains the Simulink model and various supporting libraries for a Quadruped robot. This model was made for a competition and a initial simulation before planning for a prototype and building the finished robot was made to understand the various gait patterns that can be obtained using specific chassis and leg configurations. The final robot can be seen on the YouTube link provided below.
 
 
 [![View MATLAB-Image Processing on File Exchange](https://www.mathworks.com/matlabcentral/images/matlab-file-exchange.svg)](https://in.mathworks.com/matlabcentral/fileexchange/99884-matlab-image-processing)
