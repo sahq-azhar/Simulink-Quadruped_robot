@@ -6,7 +6,19 @@ This repository contains the Simulink model and various supporting libraries for
 
 
 
-
+Media
+---------------------------------------------
+<img src="https://i.ibb.co/pw6SMFh/simulation.gif" alt="simulation" border="0">
+<table>
+  <tr>
+    <td><img src="https://i.ibb.co/sJScZCh/IMG-20190206-220243.jpg" width="400" > </td>
+    <td><img src="https://i.ibb.co/8NxpNBc/IMG-20190113-221416.jpg" width="400"></td>
+    </tr>
+     <tr>
+    <td><img src="https://i.ibb.co/9Hgqt68/20190228-221925.jpg" alt="20190228-221925" border="0" width="400" > </td>
+    <td><img src="https://i.ibb.co/Fx9v68R/IMG-20190202-214551.jpg" alt="IMG-20190202-214551" border="0" width="400"></td>
+    </tr>
+</table>
 
 Credits / Reference
 ----------------------------------------------
