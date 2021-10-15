@@ -4,7 +4,13 @@
 
 This repository contains the Simulink model and various supporting libraries for a Quadruped robot. This model was made for a competition and a initial simulation before planning for a prototype and building the finished robot was made to understand the various gait patterns that can be obtained using specific chassis and leg configurations. The final robot can be seen on the YouTube link provided below.
 
+Library Used
+--------------------------------------------
+[![View Simscape Multibody Contact Forces Library on File Exchange](https://www.mathworks.com/matlabcentral/images/matlab-file-exchange.svg)](https://www.mathworks.com/matlabcentral/fileexchange/47417-simscape-multibody-contact-forces-library)
 
+https://github.com/mathworks/Simscape-Multibody-Contact-Forces-Library
+
+This library contains contact force models for use with Simscape Multibody. They can be used for intermittent contact (parts bouncing off each other) and persistent contact (parts resting on each other).
 
 Media
 ---------------------------------------------
