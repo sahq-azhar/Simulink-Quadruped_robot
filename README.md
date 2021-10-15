@@ -19,6 +19,7 @@ This library contains contact force models for use with Simscape Multibody. They
 
 current compatible library available on add-ons explorer :19.2.5.0
 
+
 Media
 ---------------------------------------------
 <img src="https://i.ibb.co/pw6SMFh/simulation.gif" alt="simulation" border="0">
