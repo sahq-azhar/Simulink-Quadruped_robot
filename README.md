@@ -4,6 +4,8 @@
 
 This repository contains the Simulink model and various supporting libraries for a Quadruped robot. This model was made for a competition and a initial simulation before planning for a prototype and building the finished robot was made to understand the various gait patterns that can be obtained using specific chassis and leg configurations. The final robot can be seen on the YouTube link provided below.
 
+The older version of simulation will be in the 2018 folder for future reference and developments. The new improvements and optimizations will be updated in a new folder (2021).
+
 Library Used
 --------------------------------------------
 
