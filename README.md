@@ -14,9 +14,9 @@ This repository contains the simulink model and other suporting librarires for a
 ----------------------------------------------
 
 This robot and model was created referring to 
-* [MATLAB and Simulink Robotics Arena: Walking Robot](https://in.mathworks.com/matlabcentral/fileexchange/64227-matlab-and-simulink-robotics-arena-walking-robot?s_tid=srchtitle_walking%20robot_6)
-* [mathworks-robotics/msra-walking-robot](https://github.com/mathworks-robotics/msra-walking-robot) 
-<br>
+- [MATLAB and Simulink Robotics Arena: Walking Robot](https://in.mathworks.com/matlabcentral/fileexchange/64227-matlab-and-simulink-robotics-arena-walking-robot?s_tid=srchtitle_walking%20robot_6)
+- [mathworks-robotics/msra-walking-robot](https://github.com/mathworks-robotics/msra-walking-robot) 
+
 kudos to the team for putting together such a great project.
 It's all because of them that I was able to comprehend and learn from that model and create this.
 
