@@ -6,9 +6,9 @@ This repository contains the Simulink model and various supporting libraries for
 
 Library Used
 --------------------------------------------
-[![View Simscape Multibody Contact Forces Library on File Exchange](https://www.mathworks.com/matlabcentral/images/matlab-file-exchange.svg)](https://www.mathworks.com/matlabcentral/fileexchange/47417-simscape-multibody-contact-forces-library)
+[![View Simscape Multibody Contact Forces Library on File Exchange](https://www.mathworks.com/matlabcentral/images/matlab-file-exchange.svg)](https://www.mathworks.com/matlabcentral/fileexchange/47417-simscape-multibody-contact-forces-library) <a href="https://github.com/mathworks/Simscape-Multibody-Contact-Forces-Library"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" /></a>
 
-https://github.com/mathworks/Simscape-Multibody-Contact-Forces-Library
+
 
 This library contains contact force models for use with Simscape Multibody. They can be used for intermittent contact (parts bouncing off each other) and persistent contact (parts resting on each other).
 
