@@ -23,7 +23,11 @@ It's all because of them that I was able to comprehend and learn from that model
 --------------------------------------------------
 Had a particular issue with joints going out of place was resolved later on after using revolute joint
 Link to the discussing here
-[ON facebook](https://www.facebook.com/100017607456550/videos/305468520050061/)
+- [Facebook](https://www.facebook.com/100017607456550/videos/305468520050061/)
+- [Matlab Central](https://in.mathworks.com/matlabcentral/answers/418450-i-have-followed-the-following-tutorial-but-haven-t-got-any-output-please-help-me-out?s_tid=prof_contriblnk)
+
+
+
 
 **⭐ The repo**
 
