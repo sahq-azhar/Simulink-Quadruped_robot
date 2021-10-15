@@ -10,7 +10,7 @@ This repository contains the simulink model and other suporting librarires for a
 
 
 
-Credits
+Credits / Reference
 ----------------------------------------------
 
 This model was created referring to 
