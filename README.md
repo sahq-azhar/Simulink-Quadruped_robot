@@ -50,6 +50,18 @@ link to the discussing (if you are intrested)
 - [Facebook](https://www.facebook.com/100017607456550/videos/305468520050061/)
 - [Matlab Central](https://in.mathworks.com/matlabcentral/answers/418450-i-have-followed-the-following-tutorial-but-haven-t-got-any-output-please-help-me-out?s_tid=prof_contriblnk)
 
+Extra info
+-----------------------------
+(Only for 2018 Folder)
+For better understanding the file were renamed
+<details>
+     <summary> Click to view</summary>
+     
+* fulleasysphere.slx----> Simulinkmodel.slx
+* fulleasy_DataFile1.m----> Simulinkmodel_DataFile.m     
+</details>
+
+
 Final video
 --------------------------------
 
