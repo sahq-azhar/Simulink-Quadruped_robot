@@ -20,10 +20,10 @@ Media
     </tr>
 </table>
 
-Credits / Reference
+Reference
 ----------------------------------------------
 
-This model was created referring to 
+This simulink model was created referring to 
 - [MATLAB and Simulink Robotics Arena: Walking Robot](https://in.mathworks.com/matlabcentral/fileexchange/64227-matlab-and-simulink-robotics-arena-walking-robot?s_tid=srchtitle_walking%20robot_6)
 - [mathworks-robotics/msra-walking-robot](https://github.com/mathworks-robotics/msra-walking-robot) 
 
