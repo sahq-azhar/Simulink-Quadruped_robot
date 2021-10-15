@@ -11,9 +11,11 @@ Library Used
 
 [![View Simscape Multibody Contact Forces Library on File Exchange](https://www.mathworks.com/matlabcentral/images/matlab-file-exchange.svg)](https://www.mathworks.com/matlabcentral/fileexchange/47417-simscape-multibody-contact-forces-library)     &nbsp;  <a href="https://github.com/mathworks/Simscape-Multibody-Contact-Forces-Library"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" /></a>
 
-
-
 This library contains contact force models for use with Simscape Multibody. They can be used for intermittent contact (parts bouncing off each other) and persistent contact (parts resting on each other).
+
+<h4>Important note:</h4>Since this model was created back in 2018 while installing the library make sure to install an older version to avoid any simulation and compilation errors.
+
+current compatible library available on add-ons explorer :19.2.5.0
 
 Media
 ---------------------------------------------
