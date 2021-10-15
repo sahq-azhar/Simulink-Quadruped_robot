@@ -20,6 +20,10 @@ This model was created referring to
 kudos to the team for putting together such a great project.
 It's all because of them that I was able to comprehend and learn from that model and create this.
 
+--------------------------------------------------
+Had a particular issue with joints going out of place was resolved later on after using revolute joint
+Link to the discussing here
+[ON facebook](https://www.facebook.com/100017607456550/videos/305468520050061/)
 
 **⭐ The repo**
 
