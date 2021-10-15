@@ -10,7 +10,7 @@ This repository contains the simulink model and other suporting librarires for a
 
 
 
-
+Credits
 ----------------------------------------------
 
 This model was created referring to 
@@ -20,6 +20,7 @@ This model was created referring to
 kudos to the team for putting together such a great project.
 It's all because of them that I was able to comprehend and learn from that model and create this.
 
+Issue Resolved
 --------------------------------------------------
 Had a particular issue with joints going out of place was resolved later on after using revolute joint as suggested by a Matlab staff (Sebastian Castro).Thanks to him for helping.
 link to the discussing (if you are intrested)
@@ -28,7 +29,7 @@ link to the discussing (if you are intrested)
 
 
 
-
+----------------------------------------------------
 **⭐ The repo**
 
 
