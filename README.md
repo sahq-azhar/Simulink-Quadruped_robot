@@ -24,6 +24,7 @@ current compatible library available on add-ons explorer :19.2.5.0
 Media
 ---------------------------------------------
 <img src="https://i.ibb.co/pw6SMFh/simulation.gif" alt="simulation" border="0">
+<img src="https://i.ibb.co/c1XnQpZ/Screenshot-87.png" alt="Screenshot-87" border="0">
 <table>
   <tr>
     <td><img src="https://i.ibb.co/sJScZCh/IMG-20190206-220243.jpg" width="400" > </td>
